@@ -40,7 +40,9 @@ const FormGlobal = () => {
 
       // redireccionar a clientes lista
 
-      navigate('/customers'); 
+      navigate('/customers')
+      
+      // retornamos result para poder
       return result;
 
     } catch (error) {
