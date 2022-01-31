@@ -43,7 +43,7 @@ function Layout() {
           </div>
         </nav>
       </div>
-      <div className="md:w-3/4">
+      <div className="md:w-3/4 p-10 bg-gray-200 md:h-screen overflow-y-scroll ">
         <Outlet />
       </div>
     </div>

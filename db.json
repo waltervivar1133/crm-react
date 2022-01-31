@@ -1,0 +1,36 @@
+{
+  "customers": [
+    {
+      "name": "Walter",
+      "company": "Conecta",
+      "email": "waltervivar@gmail.com",
+      "phone": "980717587",
+      "notas": "Quiero hacer pruebas",
+      "id": 1
+    },
+    {
+      "name": "Jose",
+      "company": "empresa 2",
+      "email": "josevillar1133@gmail.com",
+      "phone": "789445123",
+      "notas": "Pruebas",
+      "id": 2
+    },
+    {
+      "name": "Eduardo",
+      "company": "empresa 23",
+      "email": "josevillar1133@gmail.com",
+      "phone": "789445123",
+      "notas": "Pruebas",
+      "id": 3
+    },
+    {
+      "name": "Pilar",
+      "company": "conectec",
+      "email": "pilar@gmail.com",
+      "phone": "980717587",
+      "notas": "Pruebas",
+      "id": 4
+    }
+  ]
+}
